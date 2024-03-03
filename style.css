@@ -714,6 +714,10 @@ section {
 }
 
 @media (max-width: 42em) {
+  .left-contact {
+    margin-bottom: 90px;
+  }
+
   .contact-info {
     display: flex;
     flex-direction: column;
