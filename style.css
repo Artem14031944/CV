@@ -713,7 +713,7 @@ section {
   }
 }
 
-@media (max-width: 40em) {
+@media (max-width: 42em) {
   .contact-info {
     display: flex;
     flex-direction: column;
@@ -731,6 +731,6 @@ section {
 @media (max-width: 24em) {
   .info-text {
     font-size: 0.8rem !important;
-    text-align: center;
+    /* text-align: center; */
   }
 }
