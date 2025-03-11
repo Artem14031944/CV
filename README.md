@@ -6,7 +6,7 @@ A Small Resume Landing Page, This test task was all done in almost 5 hours and t
 
 ## Links
 
-- Live Site URL: https://mustafajohnny.github.io/Zero-To-Hero-Task
+- Live Site URL: https://artem14031944.github.io/CV/
 
 ## Built with
 
