@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Small Resume Landing Page, This test task was all done in almost 5 hours and the purpose of it is to apply for an internship.
+A small landing page for a resume. This test task was completed in almost 3 hours and its purpose is to apply for offers.
 
 ## Links
 
